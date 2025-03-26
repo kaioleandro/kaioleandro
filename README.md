@@ -5,7 +5,6 @@ Se especializando em desenvolvimento com Python e Cloud Native com Java.
 ## Redes sociais 📶
 > [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaio.rar/) <br>
 Minha plataforma social  pessoal.
-<br>
 
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-leandro-garcia-silvestrini-158404346/) <br>
 Minha rede profissional.
