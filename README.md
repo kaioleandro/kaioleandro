@@ -14,10 +14,10 @@ Meu e-mail para contato.
 
 ## Meus conhecimentos atuais 📝
 
-### Front-End <hr>
+### Front-End 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40">
 
-Conhecimento completo de HTML e CSS, estudando JavaScript e suas bibliotecas
+Conhecimento completo de HTML e CSS, estudando JavaScript e suas bibliotecas <hr>
 
 <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> 
@@ -25,7 +25,7 @@ Conhecimento completo de HTML e CSS, estudando JavaScript e suas bibliotecas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"> -->
 
-### Back-end <hr>
+### Back-end 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40">
 
 Estudando e se profissionalizando em Python, Java e C.
@@ -33,7 +33,7 @@ Estudando e se profissionalizando em Python, Java e C.
 ## Meus Projetos 🛠
 ### Protótipo de site de vendas - Sunflower 🌻
 
-- <a href="https://github.com/kaioleandro/site_sunflower" target="_blank"> Repositório aqui</a> <hr>
+- <a href="https://github.com/kaioleandro/site_sunflower" target="_blank"> Repositório aqui</a>
 - <a href="https://site-sunflower.vercel.app/" target="_blank"> Site aqui</a> <hr>
 
 [Em desenvolvimento]
