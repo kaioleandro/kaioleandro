@@ -1,6 +1,5 @@
 # Bem-vindo ao meu perfil! 😉
 Técnico em Informática e atualmente no terceiro período de Engenharia de Software. <br>
-Se especializando em desenvolvimento com Python e Cloud Native com Java.
 
 ## Redes sociais 📶
 > [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaio.rar/) <br>
